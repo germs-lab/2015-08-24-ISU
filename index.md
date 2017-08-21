@@ -1,8 +1,3 @@
----
-layout: 
-root: 
----
-
 # Data Carpentry Data Organization and Manipulations 
 
 Data Carpentry's aim is to teach researchers basic concepts, skills,
@@ -24,9 +19,6 @@ Jin Choi, Shane Dooley, Jared Flater, Adina Howe, and Schuyler Smith
 
 ### R
 1. [R tutorial](http://germslab.org/datavisualization/index.html)
-
-### Cloud Computing
-1. [Introduction to cloud computing](https://github.com/JasonJWilliamsNY/cloud-genomics/blob/master/lessons/0.cloud-introduction.Rmd)
 
 ### Shell
 1. [Importance of Data Organization](http://germslab.org/P3-germs-training/lessons/00-intro-to-data-tidy.html)			
