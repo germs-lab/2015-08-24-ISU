@@ -23,6 +23,9 @@ Contributors: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, *
 
 ####Lesson status: Teaching
 
+## Instructors:
+Jin Choi, Shane Dooley, Jared Flater, Adina Howe, and Schuyler Smith
+
 ## Lessons:
 
 ### Cloud Computing
