@@ -1,9 +1,9 @@
 ---
-layout: lesson
-root: .
+layout: 
+root: 
 ---
 
-#Data Carpentry Data Organization and Manipulations 
+# Data Carpentry Data Organization and Manipulations 
 
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working with data so that they can get more done in less
@@ -12,16 +12,10 @@ in working with {{info.domain %}} data in {{info.topic %}}.
 
 
 Authors:**Tracy Teal**, **Adina Howe**
+
 Contributors: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow**, **Ben Marwick**, **Jin Choi**, and **Jared Flater** 
 
-
-
-
-
 <br> 
-
-
-####Lesson status: Teaching
 
 ## Instructors:
 Jin Choi, Shane Dooley, Jared Flater, Adina Howe, and Schuyler Smith
@@ -35,7 +29,7 @@ Jin Choi, Shane Dooley, Jared Flater, Adina Howe, and Schuyler Smith
 1. [Introduction to cloud computing](https://github.com/JasonJWilliamsNY/cloud-genomics/blob/master/lessons/0.cloud-introduction.Rmd)
 
 ### Shell
-1. [Importance of Data Organization](00-intro-to-data-tidy.html)			
+1. [Importance of Data Organization](http://germslab.org/P3-germs-training/lessons/00-intro-to-data-tidy.html)			
 2. [Shell Tutorial](http://germslab.org/Shell_Tutorial/)
 
 
