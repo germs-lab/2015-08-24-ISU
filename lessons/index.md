@@ -12,8 +12,9 @@ in working with {{info.domain %}} data in {{info.topic %}}.
 
 
 Authors:**Tracy Teal**, **Adina Howe**
-Contributors: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and
-**Ben Marwick**
+Contributors: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow**, **Ben Marwick**, **Jin Choi**, and **Jared Flater** 
+
+
 
 
 
