@@ -25,6 +25,7 @@ Jin Choi, Shane Dooley, Jared Flater, Adina Howe, and Schuyler Smith
 ### Shell
 1. [Importance of Data Organization](http://germslab.org/P3-germs-training/lessons/00-intro-to-data-tidy.html)			
 2. [Shell Tutorial](http://germslab.org/Shell_Tutorial/)
+3. [Shell Cheat Sheat](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
 
 
